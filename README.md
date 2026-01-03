@@ -1,7 +1,10 @@
 #  Gesture Snake Game
 This project is a real-time interactive Snake game system based on hand gesture recognition. 
 This project combines computer vision techniques with classic gaming to create an innovative, contactless control experience. 
-Using a standard webcam, the system captures hand gestures and translates them into game control commands, allowing players to control the snake's movement through intuitive hand motions.
+Using a standard webcam, the system captures hand gestures and translates them into game control commands, allowing players to control the snake's movement through intuitive hand motions.  
+
+
+This project is created by two students from Macau University of Science and Technology.
 
 ##  Software Requirements  
 The following Python packages are required to run the project:  
