@@ -1,0 +1,2 @@
+image_path,true_label,predicted_label,is_correct,confidence,top3_predictions,top3_confidences,prob_down,prob_forward,prob_left,prob_right,prob_up,prob_wave
+HandNavigation\Test\HandNavigation\Test\right\frame_1714026524631.png,right,left,0,0.99525285,"left, down, wave","0.9953, 0.0045, 0.0002",0.004490848,3.859093e-07,0.99525285,2.1310125e-05,2.2941775e-07,0.00023430513
