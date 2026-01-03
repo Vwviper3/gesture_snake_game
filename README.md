@@ -17,6 +17,21 @@ scikit-learn==1.5.2
 tqdm==4.66.5  
 pillow==10.3.0  
 
+##  Testing Commands  
+Test model performance  
+```python
+python test.py
+```
+Run Real-time Gesture Recognition
+```python
+python predict.py
+```
+
+Run Complete Game System
+```python
+python gui_camera.py
+```
+
 ##  Game Controls
 The game control gestures are as follows:  
 Thumbs up (thumb extended, other four fingers closed, thumb pointing upward): Move up  
